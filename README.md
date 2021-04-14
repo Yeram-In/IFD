@@ -8,5 +8,5 @@ Task 1
 Task 2 Siehe Aufgabe 01
 <br>
 Task 3 
-<a href="https://yeram-in.github.io/IFD/task3.Interaktive Datenvisualisierung/#03.1.pdf" target="_blank">Konzeptentwurf Interaktive Datenvisualisierung</a> ,
-<a href="https://yeram-in.github.io/IFD/task3.Interaktive Datenvisualisierung/#03.2.pdf" target="_blank">Moodboard Interaktive Datenvisualisierung</a>
+<a href="https://github.com/Yeram-In/IFD/blob/main/task3.Interaktive_Datenvisualisierung/konzeptentwurf.pdf" target="_blank">Konzeptentwurf Interaktive Datenvisualisierung
+</a>,<a href="https://yeram-in.github.io/IFD/task1.TheWalletProject/The_Wallet_Project.pdf" target="_blank">The Wallet Project</a>
