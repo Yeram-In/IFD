@@ -11,6 +11,7 @@ Task 3
 <a href="https://yeram-in.github.io/IFD/task3.Interaktive_Datenvisualisierung/konzeptentwurf.pdf" target="_blank">Konzeptentwurf Interaktive Datenvisualisierung
 </a>, <a href="https://yeram-in.github.io/IFD/task3.Interaktive_Datenvisualisierung/Moodboard.pdf" target="_blank">Moodboard Interaktive Datenvisualisierung
 </a>
+<br>
 Task 4
-<a href="https://github.com/Yeram-In/IFD/blob/main/task4.Low_Fid_Prototype/Low_Fid_Prototype.pdf" target="_blank">Low Fid Prototype
+<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Low_Fid_Prototype.pdf" target="_blank">Low Fid Prototype
 </a>
