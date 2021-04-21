@@ -14,4 +14,5 @@ Task 3
 <br>
 Task 4
 <a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Low_Fid_Prototype.pdf" target="_blank">Low Fid Prototype
-</a>
+</a>,
+<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/#">Clip</a>
