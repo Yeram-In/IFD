@@ -16,4 +16,4 @@ Task 4
 <a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Low_Fid_Prototype.pdf" target="_blank">Low Fid Prototype
 </a>(<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/#">Clip</a>),<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Figma_von_Yeram_In.pdf" target="_blank">High-Hid Prototyping Tools
 </a>,
-<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/#">Clip</a>
+
