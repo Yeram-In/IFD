@@ -13,11 +13,11 @@ Task 3
 </a>
 <br>
 Task 4
-<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Low_Fid_Prototype.pdf" target="_blank">Low Fid Prototype
+<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Low_Fid_Prototype.pdf" target="_blank">Low-Fid Prototype
 </a>(<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/#">Clip</a>),<a href="https://yeram-in.github.io/IFD/task4.Low_Fid_Prototype/Figma_von_Yeram_In.pdf" target="_blank">High-Hid Prototyping Tools
 </a>
 <br>
 Task5 & Task6
-<a href="https://yeram-in.github.io/IFD/task5.task6.High_Fid_Prototype/high_fid_Prototype.pdf" target="_blank">High Fid Prototype
+<a href="https://yeram-in.github.io/IFD/task5.task6.High_Fid_Prototype/high_fid_Prototype.pdf" target="_blank">High-Fid Prototype
 </a>
 
