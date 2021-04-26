@@ -19,5 +19,5 @@ Task 4
 <br>
 Task5 & Task6
 <a href="https://yeram-in.github.io/IFD/task5.task6.High_Fid_Prototype/high_fid_Prototype.pdf" target="_blank">High-Fid Prototype
-</a>,<a href="https://www.figma.com/proto/SP3ffhYBQEUpVEvx2zqNSZ/Task5-and-Task6-High-Fid-Prototype?node-id=327%3A0&scaling=min-zoom&page-id=0%3A1" target="_blank">Figma Link</a>
+</a>, <a href="https://www.figma.com/proto/SP3ffhYBQEUpVEvx2zqNSZ/Task5-and-Task6-High-Fid-Prototype?node-id=317%3A2&scaling=min-zoom&page-id=0%3A1">Figma Link</a>
 
