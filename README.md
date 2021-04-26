@@ -18,7 +18,6 @@ Task 4
 </a>
 <br>
 Task5 & Task6
-Task 4
 <a href="https://yeram-in.github.io/IFD/task5.task6.High_Fid_Prototype/high_fid_Prototype.pdf" target="_blank">High Fid Prototype
 </a>
 
