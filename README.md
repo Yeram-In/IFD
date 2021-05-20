@@ -27,4 +27,4 @@ Task7
 <br>
 Task8
 <a href="https://yeram-in.github.io/IFD/task8.Enhancement/task8_enhancement.pdf" target="_blank">Prototype Enhancement
-</a>,<a href="https://www.figma.com/proto/W6c9aWbG3DbMUNByE7gxRz/Task-6-and-7-Final?node-id=314%3A1422&scaling=min-zoom">Final Prototype Link</a>
+</a>,<a href="https://www.figma.com/proto/W6c9aWbG3DbMUNByE7gxRz/Task-6-and-7-Final?node-id=314%3A2&scaling=min-zoom">Final Prototype Link</a>
