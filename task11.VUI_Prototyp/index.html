@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<htlm lang="en">
+<head>
+	<meta name="viewport" content="width=evicewidth,initial-scale=0.1">
+		  <meta charset="UFD-8">
+	<title> Task 11 VUI PROTOTYPE</title>
+	<link rel="stylesheet" href="style.css">
+	</head>
+<body>
+	<header>
+	<a href="#" class="logo"><img src="logo.png"></a>
+		<div class="toggle"><img src="toggle.png"></div>	
+	</header>
+	<div class="banner">
+	<div class="content">
+		<h2>Task#11   <span>  VUI prototype </span>  </h2>
+		<p>#VUI #InterfaceDesign #Aufgabe11 </p>
+		<a href="#" class="play" onclick="toggle();"><img src="play.png">WATCH VIDEO</a>
+		<div class="slide"></div>
+		<ul class="sci"> 
+		<li><a href="#"><img src="facebook.png"></a></li>
+			<li><a href="#"><img src="twitter.png"></a></li>
+			<li><a href="#"><img src="instagram.png"></a></li>
+		</ul>
+		</div></div>
+	<div class="trailer">
+	<video src="low-fid.mp4" controls="true"></video>
+		<img src="close.png" class="close" onclick="toggle();">
+	</div>
+	<script type="text/javascript">
+		function toggle(){
+			var trailer= document.querySelector('.trailer');
+			var video= document.querySelector('video');
+			trailer.classList.toggle('active');
+			video.currentTime= 0;
+			video.pause();
+		}
+	</script>
+	</body>
+</htlm>
