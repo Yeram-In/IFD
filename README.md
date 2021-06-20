@@ -34,5 +34,5 @@ Task10
 </a>
 <br>
 Task11
-<a href="https://cloud.protopie.io/p/4b668f7cc7/1?ui=false&mockup=false&touchHint=false&scaleToFit=false&cursorType=touch">VUI Prototype</a>
+<a href="https://cloud.protopie.io/p/4b668f7cc7/1?ui=false&mockup=false&touchHint=false&scaleToFit=false&cursorType=touch">VUI Prototype(Chrome)</a>
 <a href="https://youtu.be/PgKf7b7aiD0">Screencast</a>
